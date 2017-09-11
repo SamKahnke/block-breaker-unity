@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e918b67f3c7086843bb8bd4393de60c7
+timeCreated: 1494894182
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Atlantic Cruise
+  fontNames:
+  - Atlantic Cruise
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
